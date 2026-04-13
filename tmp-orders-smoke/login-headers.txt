@@ -1,0 +1,16 @@
+HTTP/1.1 302 
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Set-Cookie: EM_AUTH=eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJvcmRlcnMxNzc2MDU1MjQ1MTAwQGV4YW1wbGUuY29tIiwicm9sZSI6IkNVU1RPTUVSIiwibmFtZSI6Ik9yZGVycyBVc2VyIiwiaWF0IjoxNzc2MDU1MjQ2LCJleHAiOjE3NzYxNDE2NDZ9.Hdc3wEMSN56Y__hjH1hJn2O3lu78fWWQ_0HA-ptp4WWynbVKwAvkyaHbR3p_8UKw; Path=/; Max-Age=86400; Expires=Tue, 14 Apr 2026 04:40:46 GMT; HttpOnly; SameSite=Lax
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Location: http://localhost:8080/
+Content-Language: en-IN
+Content-Length: 0
+Date: Mon, 13 Apr 2026 04:40:46 GMT
+

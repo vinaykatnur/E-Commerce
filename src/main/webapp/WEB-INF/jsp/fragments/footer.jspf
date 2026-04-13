@@ -1,0 +1,6 @@
+<footer class="border-top py-4 mt-5 bg-white">
+    <div class="container d-flex flex-column flex-md-row justify-content-between gap-2 small text-muted">
+        <span>ElectroMart India. Premium electronics storefront built with Spring Boot, JSP, MySQL, and Razorpay.</span>
+        <span>Prices shown in INR (&#8377;).</span>
+    </div>
+</footer>
